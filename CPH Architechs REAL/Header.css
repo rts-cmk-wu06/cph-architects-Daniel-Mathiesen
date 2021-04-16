@@ -1,0 +1,23 @@
+.site-header h1{
+    background-color:#92B8B7;
+    font-size: 39px;
+    padding: 7px;
+    margin: auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+/* Desktop Style */
+
+@media screen and (min-width: 1024px) {
+
+}
+
+/* Ipad Style */
+
+@media only screen 
+and (min-device-width: 768px)
+and (max-device-width: 1024px) {
+    
+}
